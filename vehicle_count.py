@@ -1,8 +1,8 @@
 import cv2
 import numpy as np
 
-min_contour_width = 40
-min_contour_height = 40
+min_contour_width = 240
+min_contour_height = 240
 offset = 10
 line_height = 550
 matches = []
